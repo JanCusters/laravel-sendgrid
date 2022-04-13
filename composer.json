@@ -4,16 +4,16 @@
     "keywords": ["laravel", "sendgrid"],
     "license": "MIT",
     "require": {
-        "illuminate/mail": "^9.0",
-        "illuminate/support": "^9.0",
-        "guzzlehttp/guzzle": "^7.2"
+        "illuminate/mail": "^8.0",
+        "illuminate/support": "^8.0",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
-        "illuminate/container": "^9.0",
-        "illuminate/filesystem": "^9.0",
+        "illuminate/container": "^8.0",
+        "illuminate/filesystem": "^8.0",
         "phpunit/phpunit": "^9.5.8",
         "laravel/helpers": "^1.2",
-        "vlucas/phpdotenv": "^5.4.1"
+        "vlucas/phpdotenv": "^5.2"
     },
     "autoload": {
         "psr-4": {
